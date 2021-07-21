@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: django-isbn-field
+Version: 0.5.2
+Summary: Provides a model and form fields to manage and validate ISBN numbers
+Home-page: https://github.com/secnot/django-isbn-field
+Author: secnot
+Author-email: UNKNOWN
+License: LPGLv3.0
+Description: UNKNOWN
+Keywords: django,isbn,field
+Platform: UNKNOWN
+Classifier: Topic :: Utilities
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3

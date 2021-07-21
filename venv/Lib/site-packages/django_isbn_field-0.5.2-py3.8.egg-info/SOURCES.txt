@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+django_isbn_field.egg-info/PKG-INFO
+django_isbn_field.egg-info/SOURCES.txt
+django_isbn_field.egg-info/dependency_links.txt
+django_isbn_field.egg-info/not-zip-safe
+django_isbn_field.egg-info/requires.txt
+django_isbn_field.egg-info/top_level.txt
+isbn_field/__init__.py
+isbn_field/fields.py
+isbn_field/models.py
+isbn_field/validators.py
+isbn_field/locale/es/LC_MESSAGES/django.mo
+isbn_field/locale/es/LC_MESSAGES/django.po

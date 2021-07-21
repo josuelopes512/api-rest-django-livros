@@ -1,0 +1,3 @@
+Django
+python-stdnum>=1.5
+six
